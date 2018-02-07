@@ -1,0 +1,3 @@
+[submodule "simter-vue-hello"]
+	path = simter-vue-hello
+	url = git@github.com:simter/simter-vue-hello.git
