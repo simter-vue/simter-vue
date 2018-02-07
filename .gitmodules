@@ -1,3 +1,6 @@
 [submodule "simter-vue-hello"]
 	path = simter-vue-hello
 	url = git@github.com:simter/simter-vue-hello.git
+[submodule "simter-vue-colgroup"]
+	path = simter-vue-colgroup
+	url = git@github.com:simter/simter-vue-colgroup.git
