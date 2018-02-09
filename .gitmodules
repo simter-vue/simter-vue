@@ -7,3 +7,6 @@
 [submodule "simter-vue-thead"]
 	path = simter-vue-thead
 	url = git@github.com:simter/simter-vue-thead.git
+[submodule "simter-vue-table"]
+	path = simter-vue-table
+	url = git@github.com:simter/simter-vue-table.git
