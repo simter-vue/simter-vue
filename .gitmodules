@@ -4,3 +4,6 @@
 [submodule "simter-vue-colgroup"]
 	path = simter-vue-colgroup
 	url = git@github.com:simter/simter-vue-colgroup.git
+[submodule "simter-vue-thead"]
+	path = simter-vue-thead
+	url = git@github.com:simter/simter-vue-thead.git
