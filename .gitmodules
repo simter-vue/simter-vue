@@ -13,3 +13,6 @@
 [submodule "simter-vue-button"]
 	path = simter-vue-button
 	url = git@github.com:simter-vue/simter-vue-button.git
+[submodule "simter-vue-pagebar"]
+	path = simter-vue-pagebar
+	url = git@github.com:simter-vue/simter-vue-pagebar.git
