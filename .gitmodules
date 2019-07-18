@@ -10,3 +10,6 @@
 [submodule "simter-vue-table"]
 	path = simter-vue-table
 	url = git@github.com:simter/simter-vue-table.git
+[submodule "simter-vue-button"]
+	path = simter-vue-button
+	url = git@github.com:simter-vue/simter-vue-button.git
