@@ -16,3 +16,6 @@
 [submodule "simter-vue-pagebar"]
 	path = simter-vue-pagebar
 	url = git@github.com:simter-vue/simter-vue-pagebar.git
+[submodule "simter-vue-grid"]
+	path = simter-vue-grid
+	url = git@github.com:simter-vue/simter-vue-grid.git
