@@ -19,3 +19,6 @@
 [submodule "simter-vue-grid"]
 	path = simter-vue-grid
 	url = git@github.com:simter-vue/simter-vue-grid.git
+[submodule "simter-vue-utils"]
+	path = simter-vue-utils
+	url = git@github.com:simter-vue/simter-vue-utils.git
